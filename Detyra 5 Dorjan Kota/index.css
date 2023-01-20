@@ -1,0 +1,145 @@
+.Main1 {
+  background-color: #363740;
+  position: absolute;
+  width: 255px;
+  height: 330px;
+  box-sizing: border-box;
+  position: absolute;
+}
+.Dashboard {
+  /* Dashboard Kit */
+
+  position: absolute;
+  width: 136px;
+  height: 24px;
+  margin-left: 35px;
+  margin-top: 69px;
+
+  /* Bold 19 (0.4 px) */
+  font-size: 19px;
+  line-height: 24px;
+  /* identical to box height */
+
+  letter-spacing: 0.4px;
+
+  /* sidebar / gray */
+
+  color: #a4a6b3;
+
+  opacity: 0.7;
+}
+.imgdashboard {
+  box-sizing: border-box;
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  margin-left: 32px;
+  margin-top: 37px;
+}
+
+.divoverview {
+  box-sizing: border-box;
+  position: absolute;
+  margin-left: 0px;
+  margin-top: 128px;
+  width: 255px;
+  height: 56px;
+  background: #9fa2b4;
+  opacity: 0.08;
+}
+.imgoverview {
+  box-sizing: border-box;
+  position: absolute;
+  width: 16px;
+  height: 15.06px;
+  margin-left: 32px;
+  margin-top: 20.47px;
+}
+.Overview {
+  width: 159px;
+  height: 20px;
+  box-sizing: border-box;
+  position: absolute;
+  margin-left: 29px;
+  margin-top: 36px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height */
+
+  letter-spacing: 0.2px;
+
+  /* accent / light */
+
+  color: #dde2ff;
+}
+.Tickets {
+  /* Title */
+
+  position: absolute;
+  height: 20px;
+  margin-left: 32px;
+
+  margin-top: 217px;
+
+  /* Reg 16 (0.2 px) */
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height */
+
+  letter-spacing: 0.2px;
+
+  /* sidebar / gray */
+
+  color: #a4a6b3;
+}
+
+.imgtickets {
+  box-sizing: border-box;
+  position: absolute;
+  width: 16px;
+  height: 10.67px;
+  margin-left: 32px;
+  margin-top: 206.67px;
+}
+.Tasks {
+  /* Title */
+
+  position: absolute;
+  height: 40px;
+  margin-left: 35px;
+  margin-top: 280px;
+
+  /* Reg 16 (0.2 px) */
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+
+  /* sidebar / gray */
+
+  color: #a4a6b3;
+}
+.imgtasks {
+  box-sizing: border-box;
+  position: absolute;
+  width: 11px;
+  height: 16px;
+  margin-left: 34.5px;
+  margin-top: 260px;
+}
+
+.hr {
+  margin-left: 0px;
+  margin-top: 310px;
+  border: 1px solid #dfe0eb;
+}
+a:hover {
+  color: #3751ff;
+}

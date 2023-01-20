@@ -1,0 +1,121 @@
+body {
+  background-color: #363740;
+}
+h3 {
+  /* Tickets */
+  width: 194px;
+  height: 50px;
+  position: absolute;
+  height: 50px;
+  margin-left: 102px;
+  margin-top: 79px;
+
+  /* Bold 40 (1 px) */
+
+  font-size: 40px;
+  line-height: 47px;
+  text-align: center;
+  letter-spacing: 1px;
+
+  color: #ffffff;
+}
+.kuadrat {
+  box-sizing: border-box;
+
+  position: absolute;
+  /* grayscale / white */
+
+  background: #ffffff;
+  /* grayscale / divider */
+
+  border: 1px solid #dfe0eb;
+  border-radius: 8px;
+  width: 258px;
+  height: 134px;
+  margin-top: 161px;
+  margin-left: 80px;
+}
+.Name {
+  position: absolute;
+  width: 194px;
+  height: 24px;
+  margin-top: 24px;
+  margin-left: 32px;
+
+  /* Bold 19 (0.4 px) */
+
+  font-size: 19px;
+  line-height: 22px;
+  text-align: center;
+  letter-spacing: 0.4px;
+
+  /* grayscale / gray */
+
+  color: #9fa2b4;
+}
+.Number {
+  position: absolute;
+  width: 194px;
+  height: 50px;
+  margin-top: 60px;
+  margin-left: 32px;
+  font-size: 40px;
+  line-height: 47px;
+  text-align: center;
+  letter-spacing: 1px;
+
+  /* grayscale / black */
+
+  color: #252733;
+}
+.kuadrat2 {
+  box-sizing: border-box;
+
+  position: absolute;
+  /* grayscale / white */
+
+  background: #ffffff;
+  /* grayscale / divider */
+
+  border: 1px solid #dfe0eb;
+  border-radius: 8px;
+  width: 258px;
+  height: 134px;
+  margin-top: 315px;
+  margin-left: 80px;
+}
+.kuadrat3 {
+  box-sizing: border-box;
+
+  position: absolute;
+  /* grayscale / white */
+
+  background: #ffffff;
+  /* grayscale / divider */
+
+  border: 1px solid #dfe0eb;
+  border-radius: 8px;
+  width: 258px;
+  height: 134px;
+  margin-top: 469px;
+  margin-left: 80px;
+}
+.kuadrat4 {
+  box-sizing: border-box;
+
+  position: absolute;
+  /* grayscale / white */
+
+  background: #ffffff;
+  /* grayscale / divider */
+
+  border: 1px solid #dfe0eb;
+  border-radius: 8px;
+  width: 258px;
+  height: 134px;
+  margin-top: 623px;
+  margin-left: 80px;
+}
+a:hover {
+  color: #3751ff;
+}

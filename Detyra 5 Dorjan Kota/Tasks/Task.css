@@ -1,0 +1,374 @@
+body {
+  background-color: #363740;
+}
+.Tasks1 {
+  position: absolute;
+  width: 194px;
+  height: 100px;
+  margin-left: 56px;
+  margin-top: 59px;
+
+  /* Bold 40 (1 px) */
+
+  font-size: 40px;
+  line-height: 47px;
+  text-align: center;
+  letter-spacing: 1px;
+
+  color: #ffffff;
+}
+.Div1 {
+  background-color: #ffffff;
+  width: 546px;
+  height: 468px;
+  border-radius: 8px;
+  box-sizing: border-box;
+
+  position: absolute;
+  /* grayscale / white */
+
+  border: 1px solid #dfe0eb;
+  margin-left: 56px;
+  margin-top: 196px;
+}
+.Tasks {
+  /* Tasks */
+
+  position: absolute;
+  width: 336px;
+  height: 24px;
+  margin-left: 32px;
+  margin-top: 32px;
+
+  /* Bold 19 (0.4 px) */
+
+  font-size: 19px;
+  line-height: 24px;
+  /* identical to box height */
+
+  letter-spacing: 0.4px;
+
+  /* grayscale / black */
+
+  color: #252733;
+}
+.Today {
+  /* Today */
+
+  position: absolute;
+  width: 336px;
+  height: 16px;
+  margin-top: 64px;
+  margin-left: 32px;
+
+  /* Reg 12 (0.1 px) */
+
+  font-family: "Muli";
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 133% */
+
+  letter-spacing: 0.1px;
+
+  /* grayscale / gray */
+
+  color: #9fa2b4;
+}
+.Today {
+  /* Today */
+
+  position: absolute;
+  width: 336px;
+  height: 16px;
+  margin-top: 64px;
+  margin-left: 32px;
+
+  /* Reg 12 (0.1 px) */
+
+  font-family: "Muli";
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 133% */
+
+  letter-spacing: 0.1px;
+
+  /* grayscale / gray */
+
+  color: #9fa2b4;
+}
+.View_all {
+  /* View all */
+
+  position: absolute;
+  width: 84px;
+  height: 20px;
+  margin-top: 94px;
+  margin-left: 0px;
+
+  /* Semibold 14 (0.2 px) */
+
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  text-align: right;
+  letter-spacing: 0.2px;
+
+  /* accent / default */
+
+  color: #3751ff;
+}
+.Create_new_task {
+  /* Create new task */
+
+  position: absolute;
+  width: 336px;
+  height: 20px;
+  margin-top: 118px;
+  margin-left: 29px;
+
+  /* Semibold 14 (0.2 px) */
+
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  letter-spacing: 0.2px;
+
+  /* grayscale / gray light */
+
+  color: #c5c7cd;
+}
+
+.hr1 {
+  /* divider */
+  position: absolute;
+  width: 546px;
+  margin-top: 165px;
+  margin-left: 0px;
+  /* grayscale / divider */
+
+  border: 1px solid #dfe0eb;
+}
+.Finish_ticket_update {
+  /* Finish_ticket_update */
+
+  position: absolute;
+  width: 336px;
+  height: 20px;
+  margin-top: 232px;
+  margin-left: 32px;
+
+  /* Semibold 14 (0.2 px) */
+
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  letter-spacing: 0.2px;
+
+  /* grayscale / black */
+
+  color: #252733;
+}
+.Create_new_ticket_example {
+  /* Create_new_ticket_example*/
+
+  position: absolute;
+  width: 336px;
+  height: 20px;
+  margin-top: 307px;
+  margin-left: 34px;
+
+  /* Semibold 14 (0.2 px) */
+
+  font-family: "Muli";
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  letter-spacing: 0.2px;
+
+  /* grayscale / black */
+
+  color: #252733;
+}
+.Update_ticket_report {
+  /* Update_ticket_report*/
+
+  position: absolute;
+  width: 336px;
+  height: 20px;
+  margin-top: 384px;
+  margin-left: 37px;
+
+  /* Semibold 14 (0.2 px) */
+
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  letter-spacing: 0.2px;
+
+  /* grayscale / black */
+
+  color: #252733;
+}
+.Default {
+  /* Default*/
+
+  position: absolute;
+  width: 52px;
+  height: 14px;
+  margin-top: 409px;
+  margin-left: 49px;
+  /* Bold 11 (0.5 px, CAPS) */
+  font-size: 11px;
+  line-height: 14px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+
+  /* grayscale / gray */
+
+  color: #9fa2b4;
+}
+.hr2 {
+  /* divider */
+  position: absolute;
+  width: 546px;
+  margin-top: 282px;
+  margin-left: 0px;
+  /* grayscale / divider */
+
+  border: 1px solid #dfe0eb;
+}
+.hr3 {
+  /* divider */
+  position: absolute;
+  width: 546px;
+  margin-top: 357px;
+  margin-left: 0px;
+  /* grayscale / divider */
+
+  border: 1px solid #dfe0eb;
+}
+.img1 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  margin-left: 30px;
+  margin-top: 137px;
+  /* grayscale / gray lightest */
+
+  background: #f0f1f7;
+  border-radius: 8px;
+}
+.img2 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  margin-left: 32px;
+  margin-top: 212px;
+
+  border: 2px solid #c5c7cd;
+}
+.img3 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  margin-left: 34px;
+  margin-top: 287px;
+  border: 2px solid #c5c7cd;
+}
+.img4 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  margin-left: 37px;
+  margin-top: 364px;
+  /* accent / default */
+
+  background: #3751ff;
+}
+.divUrgent {
+  box-sizing: border-box;
+  position: absolute;
+  width: 74px;
+  height: 22px;
+  margin-left: 32px;
+  margin-top: 252px;
+  /* yellow / default */
+
+  background: #fec400;
+  border-radius: 8px;
+}
+.Urgent {
+  position: absolute;
+  width: 50px;
+  height: 14px;
+  margin-left: 12px;
+  margin-top: 5px;
+  /* Bold 11 (0.5 px, CAPS) */
+
+  font-size: 11px;
+  line-height: 14px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+
+  /* grayscale / white */
+  color: #ffffff;
+}
+.divNew {
+  box-sizing: border-box;
+  position: absolute;
+  width: 54px;
+  height: 24px;
+  margin-left: 34px;
+  margin-top: 327px;
+  /* green / default */
+
+  background: #29cc97;
+  border-radius: 8px;
+}
+.New {
+  position: absolute;
+  width: 30px;
+  height: 14px;
+  margin-left: 12px;
+  margin-top: 5px;
+  /* Bold 11 (0.5 px, CAPS) */
+
+  /* Bold 11 (0.5 px, CAPS) */
+
+  font-family: "Muli";
+  font-size: 11px;
+  line-height: 14px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+
+  /* grayscale / white */
+
+  color: #ffffff;
+}
+a:hover {
+  color: #3751ff;
+}
